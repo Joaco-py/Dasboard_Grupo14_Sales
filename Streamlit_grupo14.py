@@ -349,7 +349,7 @@ with col2_f3:
 
 # 11. Sección: Superficie 3D interactiva de transacciones por Mes y Hora del día
 
-import calendar
+# import calendar
 import plotly.graph_objects as go
 
 st.header("7️⃣ Superficie 3D de Transacciones por Mes y Hora")
